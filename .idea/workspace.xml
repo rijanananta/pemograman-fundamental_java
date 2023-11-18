@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5752031-c65f-46ce-8329-30314d305950" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pemograman-fundamental_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Array/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Array/Revenue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Array/mechin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/codingisfun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/displaying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/firstcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Boiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/BoxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Tip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Methods/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Methods/Suhu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Methods/Veder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas1/lingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas1/persegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas1/ratarata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas2/Authenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas2/Authenticator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas3/HasilUjian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas3/Jajargenjang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas3/SandiHandphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas3/inputangka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas3/maxmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas4/Inputnilai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas4/konveksi1SW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas4/konveksi2IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas4/konveksi2SW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas4/konversi1IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/dowhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/dowhile3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/dowhileloop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/forloop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/forloop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/forloop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/while2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/while3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas5/whileloop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas6/AlsAllwet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas6/DeletEvidence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas6/DeletEvidence2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas6/GuesAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas6/Yawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas7/SimpleArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YIutPnIdejNA4S5PABkopFWJrO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ThinkPad/kuliah pemograman/pemograman-fundamental_java/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5752031-c65f-46ce-8329-30314d305950" name="Changes" comment="" />
+      <created>1700225631476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700225631476</updated>
+      <workItem from="1700225632551" duration="69000" />
+      <workItem from="1700225721627" duration="10139000" />
+      <workItem from="1700236161315" duration="1729000" />
+      <workItem from="1700271295959" duration="2879000" />
+      <workItem from="1700274263596" duration="414000" />
+      <workItem from="1700274733391" duration="903000" />
+      <workItem from="1700275663358" duration="5196000" />
+      <workItem from="1700298757517" duration="452000" />
+      <workItem from="1700299254319" duration="805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tugas1/persegi.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tugas5/whileloop1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pemograman_fundamental_java$while2.ic" NAME="while2 Coverage Results" MODIFIED="1700236018293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tugas5.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -5,61 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5752031-c65f-46ce-8329-30314d305950" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pemograman-fundamental_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Array/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Array/Revenue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Array/mechin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/alphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/chess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/codingisfun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/displaying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/BasicConcept/firstcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Boiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/BoxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Control/Tip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Methods/Bot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Methods/Suhu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoloLearn/Methods/Veder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas1/lingkaran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas1/persegi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas1/ratarata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas2/Authenticator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas2/Authenticator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas3/HasilUjian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas3/Jajargenjang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas3/SandiHandphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas3/inputangka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas3/maxmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas4/Inputnilai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas4/konveksi1SW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas4/konveksi2IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas4/konveksi2SW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas4/konversi1IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/dowhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/dowhile3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/dowhileloop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/forloop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/forloop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/forloop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/while2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/while3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas5/whileloop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas6/AlsAllwet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas6/DeletEvidence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas6/DeletEvidence2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas6/GuesAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas6/Yawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tugas7/SimpleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PF21/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PF21/UseAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +53,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/ThinkPad/kuliah pemograman/pemograman-fundamental_java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
@@ -125,8 +76,18 @@
       <workItem from="1700274733391" duration="903000" />
       <workItem from="1700275663358" duration="5196000" />
       <workItem from="1700298757517" duration="452000" />
-      <workItem from="1700299254319" duration="805000" />
+      <workItem from="1700299254319" duration="1217000" />
+      <workItem from="1700550650515" duration="5159000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1700300101668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700300101668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

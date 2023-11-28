@@ -1,6 +1,6 @@
 package PF21;
 public class UseAccount {
-    public static void main(String args[] ){
+    public static void main(String[] args){
         Account myAccount;
         Account yourAccount;
 

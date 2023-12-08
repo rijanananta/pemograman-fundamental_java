@@ -58,4 +58,3 @@ public class Mahasiswafrom extends JFrame{
     }
 
 }
-

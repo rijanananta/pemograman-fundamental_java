@@ -51,10 +51,4 @@ public class Mahasiswafrom extends JFrame{
             }
         });
     }
-
-    public static void main(String[] args) {
-        Mahasiswafrom mahasiswafrom= new Mahasiswafrom();
-        mahasiswafrom.setVisible(true);
-    }
-
 }
